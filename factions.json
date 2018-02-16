@@ -6,8 +6,14 @@
         "octgn_id": null
     },
     {
-        "code": "broadsword",
-        "name": "Broadsword Mercenary Cruiser",
+        "code": "typesscout",
+        "name": "Type S Scout Ship Deck",
+        "is_primary": true,
+        "octgn_id": null
+    },
+	{
+        "code": "submerch",
+        "name": "Subsidized Merchant Ship",
         "is_primary": true,
         "octgn_id": null
     },
@@ -24,14 +30,8 @@
         "octgn_id": null
     },
     {
-        "code": "submerch",
-        "name": "Subsidized Merchant Ship",
-        "is_primary": true,
-        "octgn_id": null
-    },
-    {
-        "code": "typesscout",
-        "name": "Type S Scout Ship Deck",
+        "code": "broadsword",
+        "name": "Broadsword Mercenary Cruiser",
         "is_primary": true,
         "octgn_id": null
     }
