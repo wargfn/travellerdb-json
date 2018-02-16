@@ -1,0 +1,34 @@
+[
+    {
+        "code": "adv",
+        "name": "Adventure Card"
+    },
+    {
+        "code": "conn",
+        "name": "Connections"
+    },
+    {
+        "code": "crew",
+        "name": "Crew"
+    },
+    {
+        "code": "event",
+        "name": "Events"
+    },
+    {
+        "code": "gear",
+        "name": "Gear"
+    },
+    {
+        "code": "heroic",
+        "name": "Heroic Deeds"
+    },
+    {
+        "code": "ship",
+        "name": "Ship Type"
+    },
+    {
+        "code": "upgrade",
+        "name": "Ship Upgrade"
+    }
+]

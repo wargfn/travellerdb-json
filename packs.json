@@ -1,0 +1,66 @@
+[
+    {
+        "code": "beowulf",
+        "cycle_code": "initial",
+        "date_release": "2018-01-20",
+        "name": "Beowulf Free Trader Ship",
+        "position": 1,
+        "size": 80,
+        "cgdb_id": null
+    },
+	{
+        "code": "typesscout",
+        "cycle_code": "initial",
+        "date_release": "2018-01-20",
+        "name": "Type S Scout Ship",
+        "position": 2,
+        "size": 80,
+        "cgdb_id": null
+    },
+    {
+        "code": "empress",
+        "cycle_code": "initial",
+        "date_release": "2018-01-20",
+        "name": "Empress Marava Far Trader Ship",
+        "position": 3,
+        "size": 80,
+        "cgdb_id": null
+    },
+    {
+        "code": "submerchant",
+        "cycle_code": "initial",
+        "date_release": "2018-01-20",
+        "name": "Subsidized Merchant Ship",
+        "position": 4,
+        "size": 80,
+        "cgdb_id": null
+    },
+	{
+        "code": "aliensimperium",
+        "cycle_code": "initial",
+        "date_release": "2018-01-20",
+        "name": "Aliens of the Imperium",
+        "position": 5,
+        "size": 60,
+        "cgdb_id": null
+    },
+    {
+        "code": "troublemains",
+        "cycle_code": "initial",
+        "date_release": "2018-01-20",
+        "name": "Trouble on the Mains",
+        "position": 6,
+        "size": 60,
+        "cgdb_id": null
+    },
+	{
+        "code": "promo",
+        "cycle_code": "initial",
+        "date_release": "2018-01-20",
+        "name": "Promo Cards",
+        "position": 9999,
+        "size": 2,
+        "cgdb_id": null
+    }
+    
+]
